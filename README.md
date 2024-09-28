@@ -6,5 +6,3 @@ Like Geralt, we prepare for every battle: tests are our potions, and reviews are
 Remember, no one walks the path alone—pull requests welcome, and merge conflicts must fall.  
 
 - 💬 Ask me about go, python and sql databases.
-
-[![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikash-paf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
